@@ -1,2 +1,2 @@
 # proba
-csak egy tesz
+csak egy teszt
